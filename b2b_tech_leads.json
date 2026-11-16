@@ -13,8 +13,8 @@
     "Company": "Resend · Email for developers",
     "Website": "https://resend.com",
     "Description": "The best way to reach humans instead of spam folders. Deliver transactional and marketing emails at scale.",
-    "Primary_Email": "delivered@resend.dev",
-    "All_Emails": "delivered@resend.dev; works.delivereddelivered@resend.devSendHTTP; onboarding@resend.dev; agoTestSendFromyour.name@acme.comTo",
+    "Primary_Email": "agoTestSendFromyour.name@acme.comTo",
+    "All_Emails": "agoTestSendFromyour.name@acme.comTo; works.delivereddelivered@resend.devSendHTTP; onboarding@resend.dev; delivered@resend.dev",
     "Twitter": "https://x.com/resend",
     "GitHub": "https://github.com/resend/resend-node-example",
     "LinkedIn": "https://linkedin.com/company/resend"
@@ -63,8 +63,8 @@
     "Company": "Papermark | Secure data rooms for modern dealmakers",
     "Website": "https://papermark.io",
     "Description": "Secure data rooms and document sharing for M&A, due diligence, fundraising, and high-stakes deals. DocSend alternative with page-level analytics, gran",
-    "Primary_Email": "Wrightjwright@accel.com2",
-    "All_Emails": "Wrightjwright@accel.com2; Chensarah@sequoia.com4; Torresm.torres@a16z.com12; Kovacselena@indexventures.com7; Sharmapriya@lightspeed.com9; Kimdavid@greylock.com6",
+    "Primary_Email": "Kovacselena@indexventures.com7",
+    "All_Emails": "Kovacselena@indexventures.com7; Wrightjwright@accel.com2; Torresm.torres@a16z.com12; Kimdavid@greylock.com6; Chensarah@sequoia.com4; Sharmapriya@lightspeed.com9",
     "Twitter": "https://twitter.com/papermarkio",
     "GitHub": "https://github.com/papermark",
     "LinkedIn": "https://www.linkedin.com/in/alonso-benavides-panizo-96b741127/"
